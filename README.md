@@ -28,3 +28,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agastya3636&show_icons=true&locale=en" alt="agastya3636" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya3636&" alt="agastya3636" /></p>
+
+<h3 align="left">Badges Earned (From GSSOC'24):</h3>
+
+<p align="left">
+  <img src="https://gssoc.girlscript.tech/badges/badge3.jpg" alt="GSSoC level 3 50+ merge" width="50" height="50">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="50" height="50">
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="50" height="50">
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="50" height="50">
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="50" height="50">
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="50" height="50">
+</p>
