@@ -29,8 +29,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agastya3636&" alt="agastya3636" /></p>
 
-<h3 align="left">Badges Earned (From GSSOC'24):</h3>
-
+<h3 align="left">Badges Earned </h3>
+<h3>From Leetcode</h3>
+<p align="left">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="leetcode Badge 1" width="100" height="100">
+   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode Badge 1" width="100" height="100">
+</p>
+<h3>From GSSOC</h3>
 <p align="left">
   <img src="https://gssoc.girlscript.tech/badges/badge3.jpg" alt="GSSoC level 3 50+ merge" width="50" height="50">
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="50" height="50">
@@ -38,4 +43,5 @@
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="50" height="50">
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="50" height="50">
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="50" height="50">
+  
 </p>
