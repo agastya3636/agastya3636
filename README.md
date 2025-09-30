@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Agastya Kumar Yadav 👋</h1>
 <p align="center">
-  <b>Incoming SDE @ Flipkart 🧑‍💻 | Full Stack Developer 💻 | Open Source Contributor 🌍 | Competitive Programmer ⚔️</b>
+  <b>Incoming SDE Intern@ Flipkart 🧑‍💻 | Full Stack Developer 💻 | Open Source Contributor 🌍 | Competitive Programmer ⚔️</b>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 - 🎓 Final Year Student at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
-- 💼 **Incoming SDE @ Flipkart** | **SDE Intern (Jan–July 2026 & May–July 2025)** | **Flipkart Grid 6.0 National Finalist**
+- 💼 **SDE Intern (Jan–July 2026 & May–July 2025)** | **Flipkart Grid 6.0 National Finalist**
 - 🏆 **SIH 2023 Winner** | **DPBH 2023 Finalist** | **Hackathon Enthusiast**
 - 🔧 Contributor in **GSSoC’24**, **SSoC’24**, **Hacktoberfest 2023**
 - 📈 Solved **1000+ DSA problems** across platforms
