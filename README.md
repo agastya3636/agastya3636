@@ -43,7 +43,6 @@
 - 🥇 **Smart India Hackathon 2023 Winner** (Govt. of India)  
 - 🥈 **Flipkart Grid 6.0 National Finalist (Rank 4)**  
 - 🥉 **Dark Pattern Buster Hackathon Finalist (IIT BHU)**  
-- 🌍 **Meta Hacker Cup Round 2 (Global Rank 1223)**  
 - ⚙️ **TCS CodeVita Season 12 (Global Rank 933)**  
 - 🧮 **3217 Max Rating (Top 2%) on CodeStudio**  
 - 💥 **3★ on CodeChef** | **1763 Max Rating on LeetCode (Top 10%)**
